@@ -1,0 +1,9 @@
++ Add Header
+- Add Icons
+- Dynamic Google Search Results
+- Changes Notes to To Do List
++ Add BBC News Feed
+- Add Reddit Feed
+- Add Random Background
++ Change RSS Feed CSS
+
